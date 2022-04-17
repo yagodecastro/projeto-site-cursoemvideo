@@ -76,7 +76,7 @@ header > p {
 
 nav {
     background-color: var(--cor3);
-    /* padding: 10px;  */
+    padding: 10px;
     box-shadow: 0px 7px 7px var(--corsombras);
 }
 
